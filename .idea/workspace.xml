@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae97eae1-0d21-42cb-bd88-e2bdd1bae4fc" name="Default" comment="" />
+    <list default="true" id="ae97eae1-0d21-42cb-bd88-e2bdd1bae4fc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java" />
+    </list>
     <ignored path="lonelyTwitter.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -68,14 +70,14 @@
       <file leaf-file-name="LonelyTwitterActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+            <state relative-caret-position="360">
+              <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1386#1706#0" expanded="true" />
-                <element signature="e#1705#1706#0" expanded="true" />
-                <element signature="e#2047#2055#0" expanded="true" />
-                <element signature="e#2104#2111#0" expanded="true" />
+                <element signature="e#1385#1705#0" expanded="true" />
+                <element signature="e#1704#1705#0" expanded="true" />
+                <element signature="e#2054#2062#0" expanded="true" />
+                <element signature="e#2111#2118#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2312,10 +2314,10 @@
           <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1386#1706#0" expanded="true" />
-            <element signature="e#1705#1706#0" expanded="true" />
-            <element signature="e#2047#2055#0" expanded="true" />
-            <element signature="e#2104#2111#0" expanded="true" />
+            <element signature="e#1385#1705#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#2054#2062#0" expanded="true" />
+            <element signature="e#2111#2118#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2456,14 +2458,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+        <state relative-caret-position="360">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1386#1706#0" expanded="true" />
-            <element signature="e#1705#1706#0" expanded="true" />
-            <element signature="e#2047#2055#0" expanded="true" />
-            <element signature="e#2104#2111#0" expanded="true" />
+            <element signature="e#1385#1705#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#2054#2062#0" expanded="true" />
+            <element signature="e#2111#2118#0" expanded="true" />
           </folding>
         </state>
       </provider>
